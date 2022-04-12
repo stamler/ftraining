@@ -4,7 +4,8 @@
 
 ### Airworthiness Certificate
 
-1. What are the compulsory documents to carry along on board?
+1. **What are the compulsory documents to carry along on board?**
+
     * License, Medical, Radio License (CARs 401.03)
     * Journey Log (CARs 605.92, 605.95)
     * Certificate of Registration (CARs 202.26)
@@ -16,50 +17,111 @@
     * Charts for night flying (CARs 602.60)
     * A watch or timekeeping device (CARs 602.60)
 
-2. What are the different types of Airworthiness Certificate?
+2. **What are the different types of Airworthiness Certificate?**
+
     * Certificate of Airworthiness
     * Special Certificate of Airworthiness (issued when the aircraft doesn't have a type certificate or doesn't conform to an existing type certificate, for example Amateur-built)
 
-3. Under which circumstances to you need a flight permit?
+3. **Under which circumstances to you need a flight permit?**
 
     All aircraft require flight authority to fly. There are three types of flight authority in Canada, the two different types of Certificates of Airworthiness and the flight permit. A flight permit is required to fly an aircraft if the aircraft doesn't conform to either a Certificate of Airworthiness or a Special Certificate of Airworthiness. Flight permits are valid up to 12 months. (CARs Standard 507.04(1))
 
-4. Name the different categories of standard airworthiness certificate.
+4. **Name the different categories of standard airworthiness certificate.**
 
     For fixed-wing aircraft, the categories are normal, utility, aerobatic, commmuter, (*Airworthiness Manual* chapter 523) and transport (*Airworthiness Manual* chapter 525)
 
-5. What is the period of validity of the airworthiness certificate?
+5. **What is the period of validity of the airworthiness certificate?**
 
     Indefinite validity, subject to requirement of CAR Standard 507 and 571 (maintenance)
 
-6. What permanently cancels the certificate?
+6. **What permanently cancels the certificate?**
 
     Airworthiness Staff Instructions 46
 
-7. What cancels the certificate of airworthiness temporarily?
+7. **What cancels the certificate of airworthiness temporarily?**
 
-8. Can you name 5 situations beyond the manufacturer's standards?
+8. **Can you name 5 situations beyond the manufacturer's standards?**
+
     1. Failure to comply with airworthiness directives
     2. Failure to comply with maintenance requirements
     3. An accident
     4. An action which violates the POH
     5. A snag (defect) in the journey log
 
-9. Can you explain if the given aircraft is airworthy and why? You must do this as PIC before every flight.
+9. **Can you explain if the given aircraft is airworthy and why? You must do this as PIC before every flight.**
 
 ### Certificate of Registration
 
-1. Name the different types of registration certificates.
+1. **Name the different types of registration certificates.**
 
-2. What is the validity of a certificate of registration?
+    Provisional, Temporary, Continuing, and Interim certificates are issued in each of the usage categories of *State*, *Commerical*, or *Private*. (CARs 202.17(1))
 
-3. What will definitively cancel a certificate of registration?
+2. **What is the validity of a certificate of registration?**
 
-4. What cancels the aircraft registration?
+3. **What will definitively cancel a certificate of registration?**
 
-5. Can we change the aircraft registration?
+    CARs 202.57
 
-6. Can we ask for a personnal [*sic*] registration and under which conditions?
+4. **What cancels the aircraft registration?**
+
+5. **Can we change the aircraft registration?**
+
+6. **Can we ask for a personnal [*sic*] registration and under which conditions?**
+
+7. **What is the time period allowed to inform Transport Canada in case of:**
+    a. **change of address?** no later than 7 days (CARs 202.51)
+    b. **change of ownership?** no later than 7 days (CARs 202.35)
+    c. **change of social status?**
+
+8. **What is the proper administrative procedure when selling an airplane?**
+
+9. **What is the validity period for a temporary certificate?**
+
+    The earliest of the following:
+    * the date specified on the certificate
+    * the last day of the 3-month period following the day on which the temporary certificate was issued
+    * the day on which there is a change of legal custody and control
+    * the day on which a continuing certificate is issued
+
+    (CARs 202.25(3))
+
+## Radio Equipment
+
+1. **If we replace the radio with a newer model, what should we do?**
+
+    Ensure the radio is restricted to aircraft frequencies. If the radio will be used outside of Canada we must apply for and receive an aircraft radio station license from Industry Canada.
+
+2. **What are the allowed frequencies to be used under this license?**
+
+    * 108.0 - 117.975 MHz (NAV)
+    * 117.975 - 137 MHz (COM)
+
+3. **The use of aeronautical radio frequencies depends on which ministry or department?**
+
+    Industry Canada
+
+4. **Can we use a portable radio and under which circumstances?**
+
+    Yes, without a license within Canada and in the air provided it meets Industry Canada requirements for radios. Outside Canada a license is required.
+
+## Annual Airworthiness Information Report (A.A.I.R.)
+
+1. **What is the AAIR?**
+
+    An annual report owners must provide to Transport Canada containing essential airworthiness information such as the date of the last annual inspection, the number of hours flown in the previous calendar year, and the TTSN. (CARs 501.02)
+
+2. **Name the mandatory periodic visits.**
+
+    The annual inspection for all aircraft. If the aircraft is commercially registered, it must be inspected at 100-hour intervals even if it has been less than 1 year.
+
+3. **What is the validity period for this report?**
+
+    The report must be filed annually for the previous year before March 30.
+
+4. **If the copy of the report has not been sent to Transport Canada can the aircraft be flown?**
+
+5. **If the copy was sent, but the entries in the logbook were not made, can the aircraft be flown?**
+
 
 ## Instruments
 
