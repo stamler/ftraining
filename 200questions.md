@@ -69,7 +69,7 @@
 
 66. **How does the vacuum system work?**
 
-    An engine-driven air pump draws air in from the outside of the aircraft through an air filter and then into the vacuum driven instruments. After the Attitude Indicator the air passes through a suction gauge and then through the pump itself. The air exits overboard after the pump through the vent line. The moving air causes the gyroscopes in the DG and AI to rotate.
+    An engine-driven air pump draws air in from the outside of the aircraft through an air filter and then into the vacuum driven instruments. After the attitude indicator, the air passes through a suction gauge and then through the pump itself. The air exits overboard after the pump through the vent line. The moving air causes the gyroscopes in the DG and AI to rotate.
 
 67. **What is the normal indication of the suction pump?**
 
