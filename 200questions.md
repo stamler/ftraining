@@ -69,9 +69,9 @@
 6. **Can we ask for a personnal [*sic*] registration and under which conditions?**
 
 7. **What is the time period allowed to inform Transport Canada in case of:**
-    a. **change of address?** no later than 7 days (CARs 202.51)
-    b. **change of ownership?** no later than 7 days (CARs 202.35)
-    c. **change of social status?**
+    * **change of address?** no later than 7 days (CARs 202.51)
+    * **change of ownership?** no later than 7 days (CARs 202.35)
+    * **change of social status?**
 
 8. **What is the proper administrative procedure when selling an airplane?**
 
