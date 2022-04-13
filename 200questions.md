@@ -182,3 +182,19 @@
     The altimeter is set to sea level pressure. This value is derrived by a reporting station which is often above sea level and is correct down to sea level. As such, the necessary altimeter setting can be obtained by turning the knob while on the ground until the current field elevation is indicated.
 
 79. **What is the tolerance for the altimeter?**
+
+80. **During navigation between Montreal and Quebec, when will you change the altimeter setting?**
+
+    Altimeter setting would be changed once received from CYQB ATIS prior to entering CYQB airspace.
+
+81. **Why should we reset the directional gyroscope (DG)?**
+
+    Precession causes the drift in the DG over time due to bearing friction. Periodic resetting during straight-and-level flight is achived by ensuring it matches the compass.
+
+82. **If you turn on the transponder during flight, will it give information immediately?**
+
+    Older transponders require time to warm up from when they're off. This can take several minutes and it's why the *Standby* setting exists. Newer transponders warm up quickly, but they must still receive an interrogation before responding with their code (Mode A) or altitude (Mode C).
+
+83. **What is the operating principle of the transponder?**
+
+    The transponder responds to interrogation pulses from ATC secondary RADAR. When these pulses are received, the transponder responds with its code, altitude info (if Mode C with ALT enabled) and if Mode S other data.
