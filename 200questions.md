@@ -122,6 +122,100 @@
 
 5. **If the copy was sent, but the entries in the logbook were not made, can the aircraft be flown?**
 
+24. **What is the static RPM?**
+
+
+25. **When should the winter kits be installed?**
+
+    * C-FEWV When the outside temperature is consistently < -6.5 degrees C (POH 7-1)
+
+26. **What are the hydraulic circuits of the airplane?**
+
+    There is one hydraulic circuit per main wheel for brakes.
+
+27. **What is the voltage of the battery?**
+
+    12 volts
+
+28. **What is the amperage of the alternator?**
+
+    60 amps
+
+29. **Where is the electric motor for the flaps located?**
+
+    Inside the right wing on a Cessna 172.
+
+30. **What is the type of flaps on the airplane?**
+
+    Slotted Flaps, the slot helps direct air over the flap to maintain laminar flow.
+
+31. **By which principle is fuel supplied?**
+
+    Gravity and engine-driven fuel pump + primer
+
+32. **What is the capacity of the tank?**
+
+    * C-FEWV 42 USG, 21 USG per side
+    * C-GNLR 43 USG, 21.5 USG per side (POH 1-4)
+
+33. **What is the quantity of useable fuel?**
+
+    * C-FEWV 38 USG, 19 USG per side
+    * C-GNLR 30 USG, 20 USG per side (POH 1-4)
+
+34. **How many drains are on the airplane?**
+
+    Three drains. One per wing and one under the engine (the fuel strainer)
+
+35. **How do we ensure ventilation of the tanks?**
+
+    Ensure the vent is clear on the left tank behind the strut.
+
+36. **What is the tire pressure of the landing gear?**
+
+    On C-GNLR (POH 8-12), 31 PSI on the nose wheel and 29 PSI on the main gear
+
+## General Understanding and use of the Airplane
+
+37. **What is the colour of 100LL?**
+
+    Light Blue
+
+38. **WHat is the octane level of 100LL?**
+
+    100 octane
+
+39. **If you can't obtain the proper fuel grade for your aircraft, what should you do?**
+
+    Don't fly if the fuel doesn't comply with the POH.
+
+40. **What causes detonation?**
+
+    Detonation can be cause by excessive leaning, incorrect fuel (octane too low), or overheating of the engine.
+
+41. **From what altitude can you adjust the mixture?**
+
+    Mixture can be leaned from 3000' Density Altitude and above. 
+
+42. **Why should we adjust the mixture?**
+
+    The density of the air decreases as we climb. Leaning ensures the optimal ratio of fuel to air mixture through different altitudes. This allows us to save fuel, prevents spark plug fouling, and prevents other maintenance issues.
+
+43. **What is the method to adjust the mixture**
+
+    Any time you aren't starting the engine or taking off below 3000' DA. Specifically, Mike Busch, the leader of Savvy Aviation, has extensive engine experience and says that leaning for maximum RPM during ground ops and climb, and leaning as much as possible without roughness in cruise, is the ideal leaning regimen for fixed-pitch simple aircraft. To summarize:
+    * Full-rich: only for start and takeoff below 3000' DA
+    * Lean for max RPM: ground ops, takeoff and climb above 3000' DA (this involves pulling the mixture control and watching the tachometer. RPM climbs, set the mixture at max RPM)
+    * Lean to onset of roughness: Cruise (this involves pulling the mixture out until the engine operates roughly then enriching until it is smooth again)
+
+44. **What is the risk of too lean a mixture**
+
+    Detonation (in which the fuel explodes instead of burning consistently and completely) is a risk at 75% power and above. This risk drops rapidly with lower power outputs.
+
+45. **What is the advantage of a rich mixture during climb?**
+
+    Cooling due to unburnt fuel moving through the engine. Also provides margin for detonation.
+
 
 ## Instruments
 
