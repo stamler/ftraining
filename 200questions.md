@@ -122,8 +122,72 @@
 
 5. **If the copy was sent, but the entries in the logbook were not made, can the aircraft be flown?**
 
+10. **What is the never exceed speed?**
+
+    V<sub>ne</sub>
+    * C-GNLR Vne 160 KIAS (POH 2-4)
+    * C-FEWV Vne 174 MPH CAS (POH 4-3)
+
+11. **What is the maneuvering speed?**
+
+    The maneuvering speed, V<sub>a</sub>, is the speed at which the plane stalls before exceeding the load limit. At 2300 lbs, here is Va for each plane:
+
+    * C-GNLR Va 97 KIAS
+    * C-FEWV Va 122 MPH CAS
+
+12. **What happens to the maneuvering speed when the weight changes?**
+
+    Maneuvering speed increases with weight. This is because a higher AoA is required to maintain flight at higher weights. Since the load factor increases proportionately to the change in angle of attack, a smaller increase in load factor is required to push the plane past its critical AoA when the plane is highly loaded compared to when it is lightly loaded.
+
+13. **What are the green, white, yellow and red arcs on the airspeed indicator?**
+
+    * Green -> Vs1 to Vno
+    * White -> Vs0 (max weight, full forward CG) to Vfe
+    * Yellow -> Vno to Vne
+    * Red -> Vne
+
+14. **What is the green arc on the tachometer?**
+
+    Normal operating range (2200-2700 RPM) POH 2-6 C-GNLR
+
+15. **What are the load factor limits?**
+
+    C-GNLR POH 2-8
+    * Normal Category: +3.8g -1.52g (flaps up)
+    * Utility Category: +4.4g -1.76g (flaps up)
+
+16. **What is the approach speed without flaps?**
+
+    * 60-70 KIAS (C-GNLR POH 4-9)
+    * 70-80 MPH (C-FEWV POH 1-6)
+
+17. **What is the approach speed for a short field?**
+
+    * 60 KIAS Full Flaps (C-GNLR POH 4-9)
+    * 65 MPH Full Flaps (C-FEWV POH 1-6)
+
+
+
+
+22. **What will be the new estimated time of arrival at that speed?**
+
+23. **What is the total ground roll distance to clear a 50' obstacle, with a grass runway, 10 kts headwind at 5000'**
+
+    C-GNLR (POH 5-12, Figure 5-4)
+
+    * Headwind factor: (10 kts / 9 kts) * 10% = decrease distance by 11%
+    * Grass factor: increase distance by 15% of ground roll
+    * Temperature: Assume 25 degrees C from Question 18 and interpolate between 20 and 30.
+    * Interpolated Ground Roll from table: 1385'
+    * Interpolated 50' obstacle clearance from table: 2503'
+    * Headwind factor minus 11% of obstacle clearance: -278'
+    * Grass factor plus 15% of ground roll: +208'
+
+    2503 - 278 + 208 = 2433'
+
 24. **What is the static RPM?**
 
+    2280-2400 RPM static, no carb heat, full rich (C-GNLR POH 4-14, POH 2-5)
 
 25. **When should the winter kits be installed?**
 
@@ -229,7 +293,7 @@
 
 67. **What is the normal indication of the suction pump?**
 
-    The green arc is 4.5 to 5.5 inches of Hg.
+    The green arc is 4.6 to 5.4 inches of Hg (C-GNLR POH 7-34).
 
 68. **What happens if the suction gauge exceeds normal values?**
 
