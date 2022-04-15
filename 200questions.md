@@ -381,6 +381,91 @@
 
 ### Medical Certificate
 
+1. **What is the expiry date of your medical certificate?**
+
+    CARs 404.04 TABLE (under 40, 60 months past date of stamp for Student Pilot Permit or PPL)
+
+2. **What is the difference between Category 1 and Category 3?**
+
+    * Category 1 is required for CPL, multi-crew pilot, ATP, and flight engineer
+    * Category 3 is sufficient for PPL
+    * Category 4 is sufficient for Recreational or Student Pilot Permits
+
+3. **Upon renewal of your medical what should you verify?**
+
+    The date of expiry.
+
+4. **What is the validity period of a medical after renewal?**
+
+    CARs 404.04 TABLE
+
+    Over 40, Category 3, two years.
+
+5. **If you do not renew a category 1 medical, at expiry what will happen?**
+
+    It affords the priviledges of a category 3 medical.
+
+6. **What are three cases where medically you should not fly?**
+
+    One of the following circumstances exists and could impair your ability to exercise flight privileges:
+    * you are suffering from an illness, disability, or injury
+    * you are taking a drug
+    * you are receiving medical treatment
+
+    (CARs 404.06(1))
+
+7. **What should you tell your doctor if you are sick?**
+
+    You must advise the doctor that you are a holder of a Canadian aviation document (Aeronautics Act 6.5(2))
+
+### Restricted Radio operator Certificate
+
+1. **Who deliveres the restricted radio operator's certificate?**
+
+    Industry Canada
+
+2. **What is the validity period for the radio operator certificate?**
+
+    Lifetime
+
+3. **What is the validity period for the provisional certificate?**
+
+    ??
+
+4. **What are the frequencies some important frequencies?**
+
+    * en route 126.7 MHz
+    * emergency 121.5 MHz
+    * UNICOM (check CFS, will be one of those in AIM RAC 1.2.1)
+    * ATF 123.2 or CFS
+
+5. **Where can we find the frequencies of different airspaces?**
+    Canada Flight Supplement, VTA, VNC, Enroute Charts LO and HI
+
+6. **What should you do if a radio failure occurs in a controlled airspace?**
+    Squawk 7600. If you're in a control zone, land at the aerodrome within the control zone, otherwise leave controlled airspace in the most direct way possible. Inform ATC as soon as possible. Follow light-gun signals (mobile phone) (CARs 602.138)
+
+7. **What should you do if a radio failiure occurs in the circuit?**
+
+    Squawk 7600, land. Follow light gun signals. Inform ATC as soon as possible. (CARs 602.138)
+
+8. **What does flashing red lights in flight mean?**
+
+    Airport unsafe, do not land.
+
+9. **What should we do if a radio failure occurs outside the control zone?**
+
+    Do not enter the CZ. Squawk 7600. Land somewhere and inform ATC as soon as possible. (CARs 602.138)
+
+## Performance & Characteristics
+
+1. **What is the stall speed in landing configuration?**
+
+    * V<sub>s0</sub> C-GNLR 41 KIAS (POH 2-5)
+    * V<sub>s0</sub> C-FEWV 49 MPH (POH 6-2)
+
+2. **What is the short field takeoff speed?**
+
 10. **What is the never exceed speed?**
 
     V<sub>ne</sub>
