@@ -466,6 +466,43 @@
 
 2. **What is the short field takeoff speed?**
 
+    * V<sub>x</sub> C-GNLR 59 KIAS (POH 4-3)
+    * V<sub>x</sub> C-FEWV 68 MPH (POH 1-5)
+
+3. **What is the best angle of climb speed?**
+
+    See Question 2
+
+4. **What is the best rate of climb speed?**
+
+    *V<sub>y</sub> C-GNLR 73 KIAS (POH 4-3)
+    *V<sub>y</sub> C-FEWV 80 MPH (POH 6-3)
+
+5. **What is the difference between best angle and best rate of climb?**
+
+    * best angle of climb — greatest gain in altitude in shortest distance
+    * best rate of climb — greatest gain in altitude in shortest time
+
+6. **What is the glide speed of the aircraft?**
+
+    * C-GNLR 65 KIAS (POH 3-11)
+    * C-FEWV 80 MPH (POH 6-6)
+
+7. **At 6000' with an engine failure, what is the maximum glide distance?**
+
+    * C-GNLR 9 NM (POH 3-11)
+    * C-FEWV 10 SM (POH 6-6)
+
+8. **What is the maximum structural cruising speed (in calm air)?**
+
+    * V<sub>no</sub> C-GNLR 128 KIAS (POH 2-5)
+    * V<sub>no</sub> C-FEWV 140 MPH (POH 4-3)
+
+9. **What is the maximum speed with flaps extended?**
+
+    * V<sub>fe</sub> C-GNLR 85 KIAS (POH 2-5)
+    * V<sub>fe</sub> C-FEWV 100 MPH (POH 4-3)
+
 10. **What is the never exceed speed?**
 
     V<sub>ne</sub>
