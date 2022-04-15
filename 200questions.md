@@ -122,18 +122,207 @@
 
 5. **If the copy was sent, but the entries in the logbook were not made, can the aircraft be flown?**
 
+## Aircraft Logbook (Journey Log)
+
+1. **When should we bring the journey log on board?**
+
+    Always unless not landing & shutting down at another location. (CARs 605.95)
+
+2. **How many hours are left before the next maintenance check?**
+
+    Check the journey log and compare it to the maintenance schedule.
+
+3. **What is the difference between air time and flight time?**
+
+    Air Time is time in the air (wheels up to wheels down) (CARs 101.01). This is the time used for technical records to determine service intervals (CARs 625.93).
+    Flight Time is time in motion under the aircraft's own power from beginning to end of flight, including ground ops. (CARs 101.01) This is the time used in personal logs (CARs 401.08) and the journey log (605.94)
+
+4. **What is the validity period of the compass?**
+
+    No greater than 12 months before compass swing. (CARs Standard 625 Appendix C (10))
+
+5. **What is the validity period of the transponder and encoder, and explain the principle of operation**
+
+    The transponder system must be tested every 24 months (CARs Standard 625 Appendix C (14)). The transponder responds to interrogation pulses (beacon requests) from ATC's secondary RADAR system with aircraft code and, if mode C, altitude.
+
+6. **What is the validity period of the pitot-static circuit?**
+
+    Recalibration no more than 24 months (CARs Standard 625 Appendix C (13))
+
+7. **What is the tolerance for the altimeter and how can the pilot check it?**
+
+    ??? Don't know tolerance. The pilot can check the altimeter accuracy by verifying that the altitude shown matches the aerodrome elevation when the pressure setting matches the aerodrome station pressure.
+
+8. **What is the validity period of the ELT and when should we change the batteries?**
+
+    |                               | 121.5 MHz | 406 and 121.5 MHz |
+    |-------------------------------|-----------|-------------------|
+    | non-water activated batteries |< 12 months|< 12 months operational < 24 months performance|
+    | water activated batteries     |< 5 years  |< 5 years |
+
+    ELT batteries shall be maintained at the interval recommended by the manufacturer and in accordance with the applicable standards of airworthiness in Appendix G of Standard 571.
+
+    CARs Standard 625 Appendix C (12)
+
+9. **When the journey log is completely filled what should we do and why?**
+
+    1. Get a new logbook
+    2. Record 2 or more entries for the old one as the first entries in the new one to maintain continuity
+
+10. **For how long should we keep the old logbook?**
+
+    Keep the old logbook for at least one year for entries only (CARs 605.94), but keep it indefinitely for technical records. In general it is good to keep them forever.
+
+11. **Who can make an entry in the journey log?**
+
+    The Pilot in Command (CARs 605.94)
+
+12. **Under which conditions can we enter several flights on a single line?**
+
+    The same pilot in command flew all flights continuously OR it is a flight record for a flight school (CARs 406.56) (CARs 605.94)
+
+13. **If you enter a defect (snag) what will happen?**
+
+    ??? unsure of procedure. Section 600 Schedule 1 details who enters the snag
+
+## Weight & Balance
+
+1. **When should a new complete weight & balance be done?**
+
+    ??
+
+2. **How is an aircraft weighed?**
+
+    C-GNLR POH 6-3 Weighing Procedures
+
+3. **Where is the datum line?**
+
+    Front face of the firewall per type certificate 3A12 and C-GNLR POH section 6
+
+4. **How do we calculate the position of the centre of gravity?**
+
+    C-GNLR POH 6-4 formula uses the arm of the main wheels minus the weight on the nose wheel * the distance from the nose wheel to the main wheels divided by the total weight.
+
+5. **Is the oil included in the basic empty weight?**
+
+    Yes, full oil per type certificate 3A12 and POH 6-4
+
+6. **Is the fuel included in the basic empty weight?**
+
+    Unusable fuel per type certificate 3A12 and POH 6-4
+
+7. **What is the validity period for the current weight & balance?**
+
+    Indefinite until a change in weight or CG through maintenance or installation / removal of equipment is made.
+
+8. **What is the maximum takeoff weight?**
+
+    2300 lbs normal category, 2000 lbs utility category POH 1-5 C-GNLR
+
+9. **What is the aircraft empty weight, actual and original (as it exited the plant)?**
+
+    ??? CHECK ACTUAL W&B and ACTUAL POH 1-5
+
+10. **Where can we find the standard passenger weight (summer/winter)?**
+
+    Advisory Circular 700-022 Appendix A
+
+11. **What is an amendment?**
+
+    A change to the existing weight and balance created by the person who made the change.
+
+12. **When should we make a new amendment?**
+
+    Following a modification or a major repair that involves a change to the empty weight or centre of gravity of an aircraft (Standard 571 Appendix C (2))
+
+13. **Who can make an amendment?**
+
+    The person who made the modification or major repair (Standard 571 Appendix C (2))
+
+14. **What are the dangers of an aft or forward centre of gravity?**
+
+    Fore-aft CG affects longitudinal stability of the airplane. With forward CG elevator authority to raise the nose is reduced. With aft CG elevator authority to lower the nose is reduced.
+
+15. **Is the aircraft more maneuverable with a forward or aft centre of gravity?**
+
+    Forward CG increases maneuverability due to lower angle of attack to maintain level flight.
+
+16. **Is the aircraft more efficient with a forward or aft centre of gravity?**
+
+    Aft CG increases efficiency because the horizontal stabilizer can produce less downforce.
+
+17. **Does the stall speed change according to the location of the centre of gravity?**
+
+    Yes. Stall speed decreases as CG moves aft because less downforce is required by the horizontal stabilizer.
+
+18. **If you exceed the maximum allowable takeoff weight, what can you do?**
+
+    Don't take off. Remove fuel or payload.
+
+19. **If the CG is located too far back or forward, what can you do?**
+
+    Shift weight by the necessary amount to get CG within limits. Weight shift formula
+
+    shift distance = (total weight * cg change) / weight shifted
+
+## Minimum Equipment List
+
+1. **What is the minimum equipment list (MEL)?**
+
+    ??
+
+2. **Where can we find the MEL for this airplane, and can you show it?**
+
+    ??
+
+3. **What is the difference between the MEL and the required minimums for DVFR, NVFR and VFR OTT?**
+
+    ?? MEL is specific to aircraft, required minimums are general to all aircraft?
+
+## Flight Manual
+
+1. **Where can we find the aircraft flight manual during flight?**
+
+    On board the airplane if required by the type certificate (CARs 605.04)
+
+2. **Is a copy legal?**
+
+    No. (Which rules???)
+
+3. **How can we verify the validity of the manual?**
+
+    Serial number is on the manual and matches the aircraft.
+
+## Interception Procedures
+
+1. **What is the use of in-flight interception procedures?**
+
+2. **In which document can we find the procedures?**
+
+    The Canada Flight Supplement section F
+
+3. **How can we verify the validity of the procedures?**
+
+    ?? Call ATC?
+
+4. **What should the pilot do during a flight interception?**
+
+    ?? Follow the procedures?
+
+## Liability Insurance
+
 10. **What is the never exceed speed?**
 
     V<sub>ne</sub>
-    * C-GNLR Vne 160 KIAS (POH 2-4)
-    * C-FEWV Vne 174 MPH CAS (POH 4-3)
+    * C-GNLR V<sub>ne</sub> 160 KIAS (POH 2-4)
+    * C-FEWV V<sub>ne</sub> 174 MPH CAS (POH 4-3)
 
 11. **What is the maneuvering speed?**
 
-    The maneuvering speed, V<sub>a</sub>, is the speed at which the plane stalls before exceeding the load limit. At 2300 lbs, here is Va for each plane:
+    The maneuvering speed, V<sub>a</sub>, is the speed at which the plane stalls before exceeding the load limit. At 2300 lbs, here is V<sub>a</sub> for each plane:
 
-    * C-GNLR Va 97 KIAS
-    * C-FEWV Va 122 MPH CAS
+    * C-GNLR V<sub>a</sub> 97 KIAS
+    * C-FEWV V<sub>a</sub> 122 MPH CAS
 
 12. **What happens to the maneuvering speed when the weight changes?**
 
@@ -141,10 +330,10 @@
 
 13. **What are the green, white, yellow and red arcs on the airspeed indicator?**
 
-    * Green -> Vs1 to Vno
-    * White -> Vs0 (max weight, full forward CG) to Vfe
-    * Yellow -> Vno to Vne
-    * Red -> Vne
+    * Green -> V<sub>s1</sub> to V<sub>no</sub>
+    * White -> V<sub>s0</sub> (max weight, full forward CG) to V<sub>FE</sub>
+    * Yellow -> V<sub>no</sub> to V<sub>ne</sub>
+    * Red -> V<sub>ne</sub>
 
 14. **What is the green arc on the tachometer?**
 
@@ -166,10 +355,49 @@
     * 60 KIAS Full Flaps (C-GNLR POH 4-9)
     * 65 MPH Full Flaps (C-FEWV POH 1-6)
 
+18. **What is the true airspeed and consumption at 5000', +25°C and 70% BHP?**
 
+    Assuming +25°C is at altitude (OAT, thus ISA+20)
+    First interpolate between the closest %BHP figures at 4000' and 6000' in the 20°C ABOVE column in the C-GNLR POH (5-16) to yield the 70% figures at their respective altitudes.
 
+    | P.Alt | Power | KTAS | GPH |
+    |-------|-------|------|-----|
+    | 4000' |  70%  | 117  | 7.8 |
+    | 6000' |  70%  | 119  | 7.8 |
+
+    Then interpolate between the 4000' and 6000' to get the 5000' figures.
+
+    | P.Alt | Power | KTAS | GPH |
+    |-------|-------|------|-----|
+    | 5000' |  70%  | 118  | 7.8 |
+
+19. **What is the best rate of climb at 5000'**
+
+    Assuming ISA+20 as in question 18, first interpolate between the 4000' and 6000' rows in each of the 20°C and 40°C columns from C-GNLR POH (5-14) to yield the 5000' figures for their respective temperatures.
+
+    | P.Alt | 20°C | 40°C |
+    |-------|------|------|
+    | 5000' | 493 fpm  |  435 fpm|
+
+    Then use linear interpolation for 25°C
+
+    (493 fpm - 435 fpm) / (20°C - 40°C) = -2.9 fpm/°C
+
+    -2.9 fpm/°C * 5°C = -14.5 fpm
+
+    493 fpm - 14.5 fpm ≈ **478 fpm**
+
+20. **What is the endurance at the same altitude?**
+
+    C-GNLR POH (5-19) 4.4 hours
+
+21. **What is the range?**
+
+    Assuming data from questions 18 to 20, C-GNLR POH (5-18) gives range of 640 nautical miles.
 
 22. **What will be the new estimated time of arrival at that speed?**
+
+    This question is not answerable as the distance is not given. The solution would be calculated by dividing the distance by ground speed. The ground speed is calculated by adjusting the TAS from question 18 for wind.
 
 23. **What is the total ground roll distance to clear a 50' obstacle, with a grass runway, 10 kts headwind at 5000'**
 
