@@ -1,8 +1,13 @@
 # Flight Test Guide
 
-## Airplane Documents
+## Table of Contents
 
-### Airworthiness Certificate
+* [Airplane Documents](Airplane-Documents)
+  * [Airworthiness Certificate](Airworthiness-Certificate)
+  * [Certificate of Registration](Certificate-of-Registration)
+
+
+## Airplane Documents
 
 1. **What are the compulsory documents to carry along on board?**
 
@@ -16,6 +21,8 @@
     * Intercept Orders (CARs 602.44)
     * Charts for night flying (CARs 602.60)
     * A watch or timekeeping device (CARs 602.60)
+
+### Airworthiness Certificate
 
 2. **What are the different types of Airworthiness Certificate?**
 
@@ -85,7 +92,7 @@
 
     (CARs 202.25(3))
 
-## Radio Equipment
+### Radio Equipment
 
 1. **If we replace the radio with a newer model, what should we do?**
 
@@ -104,7 +111,7 @@
 
     Yes, without a license within Canada and in the air provided it meets Industry Canada requirements for radios. Outside Canada a license is required.
 
-## Annual Airworthiness Information Report (A.A.I.R.)
+### Annual Airworthiness Information Report (A.A.I.R.)
 
 1. **What is the AAIR?**
 
@@ -122,7 +129,7 @@
 
 5. **If the copy was sent, but the entries in the logbook were not made, can the aircraft be flown?**
 
-## Aircraft Logbook (Journey Log)
+### Aircraft Logbook (Journey Log)
 
 1. **When should we bring the journey log on board?**
 
@@ -185,7 +192,7 @@
 
     ??? unsure of procedure. Section 600 Schedule 1 details who enters the snag
 
-## Weight & Balance
+### Weight & Balance
 
 1. **When should a new complete weight & balance be done?**
 
@@ -265,7 +272,7 @@
 
     shift distance = (total weight * cg change) / weight shifted
 
-## Minimum Equipment List
+### Minimum Equipment List
 
 1. **What is the minimum equipment list (MEL)?**
 
@@ -279,7 +286,7 @@
 
     ?? MEL is specific to aircraft, required minimums are general to all aircraft?
 
-## Flight Manual
+### Flight Manual
 
 1. **Where can we find the aircraft flight manual during flight?**
 
@@ -293,7 +300,7 @@
 
     Serial number is on the manual and matches the aircraft.
 
-## Interception Procedures
+### Interception Procedures
 
 1. **What is the use of in-flight interception procedures?**
 
@@ -309,7 +316,70 @@
 
     ?? Follow the procedures?
 
-## Liability Insurance
+### Liability Insurance
+
+1. **Regarding the liability insurance in case of private aircraft, should we provide evidence?**
+
+    Proof of liability insurance must be carried on board the aircraft (CARs 606.02 (9))
+
+2. **In case of commercial aircraft?**
+
+    Proof of liability insurance must be carried on board the aircraft (CARs 606.02 (9))
+
+## Pilot's Documents
+
+### Permit & Crew Licenses
+
+1. **What is the validity period for a student pilot permit?**
+
+    5 years.
+
+2. **What is the validity period for a provisory license?**
+
+    ??
+
+3. **What is the validity period for a recreational pilot's permit?**
+
+    Indefinite validity as long as currency requirements are met. (CARs 401.05)
+
+4. **What is the validity period of your pilot's license?**
+
+    Indefinite validity as long as currency requirements are met. (CARs 401.05)
+    See TP 2228E-37 document on currency.
+
+5. **Which privileges are related to your license or permit?**
+
+    My student pilot permit is valid for PIC operation of a single engine aircraft carrying no passengers in  DVFR in Canada for the purpose of flight training under the direction and supervision of a qualified flight instructor. (CARs 401.19(1))
+
+6. **What is meant by "high performance aeroplane"?**
+
+    An aeroplane that is specified in the minimum flight crew document as requiring only one pilot and that has a V<sub>ne</sub> >= 250 KIAS or V<sub>s0</sub> >= 80 KIAS or an amateur-built aeroplane that has a wing loading greater than that specified in section 549.103 of the *Airworthiness Manual* (CARs 400.01(1))
+
+7. **What invalidates your pilot's license?**
+
+8. **What should you do to keep your knowledge up to date?**
+
+    * Complete a flight review with an instructor
+    * Attend a Transport Canada aviation safety seminar
+    * Participate in a Transport Canada-approved recurrent training program
+    * Complete the self-paced study program, which is updated each year
+    * Complete a training program or pilot proficiency check required by Part IV, VI or VII of the Canadian Aviation Regulations
+    * Complete the requirements for the issue or renewal of a licence, permit or rating
+    * Pass the written exam for a licence, permit or rating
+
+9. **What is the validity period for the update of knowledge?**
+
+    Pilots are required to complete at least one of the items in Question 8 every 2 years.
+
+10. **What are the requirements allowing you to carry passengers?**
+
+    To carry passengers, pilots must have completed 5 takeoffs and landings in the preceeding 6 months in the same category and class of aircraft they intend to carry passengers in. Additionally, if the intended flight with passengers is at night, the qualifying takeoffs and landings must all have been performed at night.
+
+11. **Can you charge flight fees to your passengers?**
+
+    No, however you may be reimbursed for costs according to CARs 401.28
+
+### Medical Certificate
 
 10. **What is the never exceed speed?**
 
