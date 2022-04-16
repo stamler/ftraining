@@ -96,6 +96,7 @@
 
     * register the airplane with Transport Canada
     * provide a bill of sale
+    * activate an interim certificate of registration
 
 9. **What is the validity period for a temporary certificate?**
 
