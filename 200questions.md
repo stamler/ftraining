@@ -90,7 +90,7 @@
 7. **What is the time period allowed to inform Transport Canada in case of:**
     * **change of address?** no later than 7 days (CARs 202.51)
     * **change of ownership?** no later than 7 days (CARs 202.35)
-    * **change of social status?**
+    * **change of social status?** ??
 
 8. **What is the proper administrative procedure when selling an airplane?**
 
