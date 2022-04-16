@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [Airplane Documents](Airplane-Documents)
-  * [Airworthiness Certificate](Airworthiness-Certificate)
-  * [Certificate of Registration](Certificate-of-Registration)
+* [Airplane Documents](#airplane-documents)
+  * [Airworthiness Certificate](#airworthiness-certificate)
+  * [Certificate of Registration](#certificate-of-registration)
 
 
 ## Airplane Documents
@@ -957,7 +957,6 @@
     * Maintain straight and level flight and ensure DG is set correctly.
     * Check nav log for clues, for example drift applied incorrectly.
     * Consider returning to your last known position or point of reference.
-
 
 105. **If you were unable to identify the last point of reference, what should you do?**
 
