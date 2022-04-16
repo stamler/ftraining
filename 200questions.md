@@ -940,3 +940,16 @@
     * 2000' from cloud horizontal
     * 500 ft from cloud vertical
 
+101. **Can we fly across a class F airspace (CYA)?**
+
+    Yes. This is advisory (CYA). We must be alert for the conditions specified in the *designated airspace handbook*.
+
+102. **Under which circumstances should we carry a survival kit?**
+
+    Operating beyond 25 NM of a departure aerodrome (CARs 602.61).
+
+103. **When should we carry a life jacket?**
+
+    When operating beyond gliding distance of shore OR beyond 50 NM of shore, whichever is less. (CARs 602.62)
+
+104. **If you're unsure of your position, how should you proceed?**
