@@ -47,6 +47,8 @@
 
 7. **What cancels the certificate of airworthiness temporarily?**
 
+    ??
+
 8. **Can you name 5 situations beyond the manufacturer's standards?**
 
     1. Failure to comply with airworthiness directives
@@ -57,6 +59,8 @@
 
 9. **Can you explain if the given aircraft is airworthy and why? You must do this as PIC before every flight.**
 
+    You must have valid flight authority (certificate of airworthiness or special certificate of airworthiness or flight permit). Your aircraft must be maintained and unaccidented and not have withstood actions which violate the POH. Snags validated by a mechanic, and all airworthiness directives complied with.
+
 ### Certificate of Registration
 
 1. **Name the different types of registration certificates.**
@@ -65,15 +69,23 @@
 
 2. **What is the validity of a certificate of registration?**
 
+    Indefinite unless cancelled.
+
 3. **What will definitively cancel a certificate of registration?**
 
     CARs 202.57
 
 4. **What cancels the aircraft registration?**
 
+    ??
+
 5. **Can we change the aircraft registration?**
 
+    ??
+
 6. **Can we ask for a personnal [*sic*] registration and under which conditions?**
+
+    ??
 
 7. **What is the time period allowed to inform Transport Canada in case of:**
     * **change of address?** no later than 7 days (CARs 202.51)
