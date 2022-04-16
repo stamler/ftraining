@@ -94,6 +94,9 @@
 
 8. **What is the proper administrative procedure when selling an airplane?**
 
+    * register the airplane with Transport Canada
+    * provide a bill of sale
+
 9. **What is the validity period for a temporary certificate?**
 
     The earliest of the following:
