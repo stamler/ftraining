@@ -700,6 +700,84 @@
 
     Cooling due to unburnt fuel moving through the engine. Also provides margin for detonation.
 
+46. **What causes a white deposit at the exhaust outlet?**
+
+    White deposits signify lead. This could be caused by running too lean.
+
+47. **What causes a black dposit at the exhaust outlet?**
+
+    Black deposits are unburnt hydrocarbons caused by running too rich.
+
+48. **What causes white smoke at startup?**
+
+    Smoke can be caused by oil burning or water in the engine.
+
+49. **What happens if you prime too much before startup?**
+
+    The engine can become flooded. This means the mixture is so rich that the fuel won't burn.
+
+50. **When you put on carburator heat, what happens to the mixture?**
+
+    The mixture becomes richer since the amount of air decreases with heat but the fuel remains the same.
+
+51. **How can we detect carburator icing with a fixed or constant speed propeller?**
+
+    With a fixed pitch propeller a reduction in RPM can be caused by carburator icing. With a constant speed propeller a reduction in manifold pressure can be caused by carburator icing. With a CS propeller a reduction in RPM may also be observed if the prop setting is at 100% speed.
+
+52. **When can we remove carburator heat?**
+
+    After application, carb heat should be left on until the engine starts rough-running and then runs smoothly again. Turning the carb heat off should increase RPM in a fixed-pitch aircraft and manifold pressure in a CS-prop aircraft.
+
+53. **Why shouldn't we use carburator heat on the ground?**
+
+    Carb heat bypasses the air filter so using it introduces debris into the engine.
+
+54. **When selecting magnetos how much RPM can a magneto drop?**
+
+    Up to 125 RPM
+
+55. **What is the maximum allowed difference between the RPM drop on either single magneto during check?**
+
+    50 RPM
+
+56. **If no power drop occurs on the right magneto what does this mean?**
+
+    Magnetos default to on. They are disabled through the use of a p-lead (a wire) connecting the primary coil of the magneto to ground. If setting ignition to right-only mag causes no RPM drop it could mean that the left mag isn't grounding (meaning it is permanently live) and thus that the p-lead is broken on the left mag. An alternative diagnosis is that the left mag is simply not working at all (permanently grounded) and thus the both setting and right setting show no difference. However, this can possibiliy can be eliminated by testing the left magneto which in this case should shut down the engine.
+
+57. **What are the symptoms of fouled spark plugs?**
+
+    Misfiring, rough engine running. This is especially likely in a cold engine that is running with a rich mixture.
+
+58. **How can we clean fouled spark plugs?**
+
+    Running the engine at a higher RPM and leaning can clean fouled spark plugs.
+
+59. **What is the cabin heat system and how does it work?**
+
+    The cabin heat system provides heat to the cabin when needed by diverting outside air around the exhaust manifold in a rudimentary heat exchanger where it picks up waste engine heat prior to entering the cabin.
+
+60. **If the exhaust pipe was pierced, what is the related danger?**
+
+    A pierced exhaust pipe would allow heated cabin air to directly mix with exhaust gases, creating a significant risk of CO poisoning in the cabin.
+
+61. **Where can you find the type of oil used for the flight?**
+
+    In the POH
+
+    * C-GNLR POH 1-4
+    * C-FEWV POH 5-8
+
+62. **What are the four functions of the oil?**
+
+    Cooling, lubricating, sealing, and cleaning (flushing)
+
+63. **When do we use mineral oil?**
+
+    During the first 50 hours of operation on a new engine, and not after.
+
+64. **Where is the (fire resistant) identification plate of the aircraft?**
+
+    The lower part of the left forward door post.
 
 ## Instruments
 
@@ -761,6 +839,8 @@
 
 79. **What is the tolerance for the altimeter?**
 
+    ??
+
 80. **During navigation between Montreal and Quebec, when will you change the altimeter setting?**
 
     Altimeter setting would be changed once received from CYQB ATIS prior to entering CYQB airspace.
@@ -776,3 +856,87 @@
 83. **What is the operating principle of the transponder?**
 
     The transponder responds to interrogation pulses from ATC secondary RADAR. When these pulses are received, the transponder responds with its code, altitude info (if Mode C with ALT enabled) and if Mode S other data.
+
+84. **Name the transponder codes that are important to know**
+
+    * 7500 - hijacking
+    * 7600 - COM failure
+    * 7700 - emergency
+    * 1200 - VFR default below 12,500' ASL
+    * 1400 - VFR default above 12,500' ASL
+
+85. **What are the precautions when displaying a discrete code?**
+
+    Keep the code for the duration of the flight unless assigned a new code by ATC.
+
+## Navigation
+
+86. **How can we calculated the indicated airspeed from the true airspeed?**
+
+    OAT and Pressure Altitude are required. Obtain CAS from POH table (C-GNLR 5-8, C-FEWV 6-2) then use OAT and P.Alt with an E6B or CX-3 to calculate TAS.
+
+87. **How do you determine your cruising altitude?**
+
+    Stay above MEF for entire flight, follow cruising altitudes order (Mag track in southern domestic airspace) above 3000' AGL, stay clear of clouds (VFR minima), optimize winds.
+
+88. **What is the MEF?**
+
+    The Maximum Elevation Figure is the greater of the highest terrain + 100m OR the height of the highest obstacle rounded up to the nearest 100' ASL.
+
+89. **Is it mandatory to file a flight plan?**
+
+    Flight plans are required beyond 25 NM of the departure aerodrome unless you file a flight itinerary with a responsible person. (CARs 602.73)
+
+90. **When can we close a flight plan?**
+
+    No more than 60 minutes after the scheduled arrival time.
+
+91. **If we make 3 stops of 30 minutes each during a 3h30 flight what will you indicate in the "estimated flight time" box on the flight plan?**
+
+    3.5 hrs + (0.5 hrs * 3) = 5 hrs.
+
+92. **If it takes 6 minutes to fly 12 NM, how long does it take to fly 145 NM?**
+
+    * 12 NM / 6 m = 2 NM/min
+    * 145 NM / 2NM/min = 72.5 minutes
+
+93. **If our fuel consumption is 7 USG/h, what is the amount needed for the flight in question 92?**
+
+    * (72.5 minutes / 60 minutes/hr ) * 7 USG/hr = 8.5 USG
+    * We will also need to account for taxi, takeoff, climb, descent, and reserve
+
+94. **Having filed a flight plan, weather prevents us from maintaining our altitude and course. What should we do?**
+
+    * Adjust course to stay clear of weather and identify position
+    * FARDOT to plan a diversion
+    * Call FSS/FIC to update flight plan
+
+95. **If we had filed a flight itinerary, same question as 94**
+
+    Same answer, but contact the responsible person as soon as possible.
+
+96. **What are the minimum flight altitudes above an uncontrolled airfield?**
+
+    2000' AAE unless for the purposes of landing or taking off. In these cases it is 500' above circuit altitude. (CARs 602.96(4))
+
+97. **At which altitude can we turn after takeoff on the circuit side in order to leave the circuit?**
+
+    Circuit altitude. (AIM RAC 4.5.2)
+
+98. **At which altitude can we turn after takeoff on the inactive side in order to leave the circuit?**
+
+    Circuit altitude + 1000' (AIM RAC 4.5.2) This accounts for aircraft descending to the circuit on the inactive side from 500' above the circuit.
+
+99. **What are the VFR weather minima for controlled airspace?**
+
+    * 3 SM horizontal visibility
+    * 1 SM from cloud horizontally
+    * 500' from cloud vertically
+
+100. **What are the weather minima for uncontrolled airspace above 1000' AGL?**
+
+    * 1 SM horizontal visibility day
+    * 3 SM horizontal visibility night
+    * 2000' from cloud horizontal
+    * 500 ft from cloud vertical
+
