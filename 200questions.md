@@ -143,7 +143,11 @@
 
 4. **If the copy of the report has not been sent to Transport Canada can the aircraft be flown?**
 
+    ??
+
 5. **If the copy was sent, but the entries in the logbook were not made, can the aircraft be flown?**
+
+    ??
 
 ### Aircraft Logbook (Journey Log)
 
@@ -320,6 +324,8 @@
 
 1. **What is the use of in-flight interception procedures?**
 
+    ??
+
 2. **In which document can we find the procedures?**
 
     The Canada Flight Supplement section F
@@ -352,7 +358,7 @@
 
 2. **What is the validity period for a provisory license?**
 
-    ??
+    ?? what is a provisory license?
 
 3. **What is the validity period for a recreational pilot's permit?**
 
@@ -372,6 +378,8 @@
     An aeroplane that is specified in the minimum flight crew document as requiring only one pilot and that has a V<sub>ne</sub> >= 250 KIAS or V<sub>s0</sub> >= 80 KIAS or an amateur-built aeroplane that has a wing loading greater than that specified in section 549.103 of the *Airworthiness Manual* (CARs 400.01(1))
 
 7. **What invalidates your pilot's license?**
+
+    ??
 
 8. **What should you do to keep your knowledge up to date?**
 
