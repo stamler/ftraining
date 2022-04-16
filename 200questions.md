@@ -953,3 +953,23 @@
     When operating beyond gliding distance of shore OR beyond 50 NM of shore, whichever is less. (CARs 602.62)
 
 104. **If you're unsure of your position, how should you proceed?**
+
+    * Maintain straight and level flight and ensure DG is set correctly.
+    * Check nav log for clues, for example drift applied incorrectly.
+    * Consider returning to your last known position or point of reference.
+
+
+105. **If you were unable to identify the last point of reference, what should you do?**
+
+    * Look for something recognizable on the ground and try to find it on the map.
+    * Draw a circle centered on the intended track line that matches your time enroute since last known position with a radius that is 10% of your estimated distance travelled since last known position and try to match your position. (Flight Training Manual p146)
+
+106. **If you get lost, how do you proceed?**
+
+    * Use panel GPS
+    * Use your phone GPS
+    * As a last resort, try to call ATC or a nearby FSS/FIC
+
+107. **What is your range?**
+
+    * Remaining fuel divided by fuel burn rate times speed
