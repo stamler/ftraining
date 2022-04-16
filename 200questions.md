@@ -704,7 +704,7 @@
 
     Light Blue
 
-38. **WHat is the octane level of 100LL?**
+38. **What is the octane level of 100LL?**
 
     100 octane
 
