@@ -329,7 +329,7 @@
 
 2. **Is a copy legal?**
 
-    No. (Which rules???)
+    No. (Which rules ??)
 
 3. **How can we verify the validity of the manual?**
 
