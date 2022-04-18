@@ -193,7 +193,7 @@
 
 7. **What is the tolerance for the altimeter and how can the pilot check it?**
 
-    ?? Don't know tolerance. The pilot can check the altimeter accuracy by verifying that the altitude shown matches the aerodrome elevation when the pressure setting matches the aerodrome station pressure.
+    The altimeter scale error tolerance is detailed in Table 1 of Standard 571 Appendix B. The pilot can check the altimeter accuracy by verifying that the altitude shown matches the aerodrome elevation when the pressure setting matches the aerodrome station pressure.
 
 8. **What is the validity period of the ELT and when should we change the batteries?**
 
