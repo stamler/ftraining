@@ -193,7 +193,7 @@
 
 7. **What is the tolerance for the altimeter and how can the pilot check it?**
 
-    ??? Don't know tolerance. The pilot can check the altimeter accuracy by verifying that the altitude shown matches the aerodrome elevation when the pressure setting matches the aerodrome station pressure.
+    ?? Don't know tolerance. The pilot can check the altimeter accuracy by verifying that the altitude shown matches the aerodrome elevation when the pressure setting matches the aerodrome station pressure.
 
 8. **What is the validity period of the ELT and when should we change the batteries?**
 
@@ -225,7 +225,7 @@
 
 13. **If you enter a defect (snag) what will happen?**
 
-    ??? unsure of procedure. Section 600 Schedule 1 details who enters the snag
+    ?? unsure of procedure. Section 600 Schedule 1 details who enters the snag
 
 ### Weight & Balance
 
@@ -263,7 +263,7 @@
 
 9. **What is the aircraft empty weight, actual and original (as it exited the plant)?**
 
-    ??? CHECK ACTUAL W&B and ACTUAL POH 1-5
+    ?? CHECK ACTUAL W&B and ACTUAL POH 1-5
 
 10. **Where can we find the standard passenger weight (summer/winter)?**
 
