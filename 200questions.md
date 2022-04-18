@@ -339,11 +339,11 @@
 
 1. **What is the use of in-flight interception procedures?**
 
-    ??
+    Pilots must follow these procedures in the event that they are intercepted by a peace officer, an officer of a police authority or an officer of the Canadian Armed Forces acting within the scope of their duties. (CARs 602.144) Interceptions are made only where the possibility is considered to exist that an unidentified aircraft may be truly hostile until definitely proven to the contrary.
 
 2. **In which document can we find the procedures?**
 
-    The Canada Flight Supplement section F
+    The Canada Flight Supplement section F (Emergency)
 
 3. **How can we verify the validity of the procedures?**
 
@@ -351,7 +351,7 @@
 
 4. **What should the pilot do during a flight interception?**
 
-    ?? Follow the procedures?
+    Intercepted aircraft should maintain a steady course and under no circumstances take retaliatory action such as shining a light on an interceptor or attempt evasive action. Retaliatory action on the part of an intercepted aircraft could be construed a hostile intent and might result in drastic consequences. Pilots should then proceed to follow the procedures in the CFS.
 
 ### Liability Insurance
 
