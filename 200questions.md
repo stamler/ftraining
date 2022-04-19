@@ -44,9 +44,9 @@
     * Certificate of Airworthiness
     * Special Certificate of Airworthiness (issued when the aircraft doesn't have a type certificate or doesn't conform to an existing type certificate, for example Amateur-built)
 
-3. **Under which circumstances to you need a flight permit?**
+3. **Under which circumstances do you need a flight permit?**
 
-    All aircraft require flight authority to fly. There are three types of flight authority in Canada, the two different types of Certificates of Airworthiness and the flight permit. A flight permit is required to fly an aircraft if the aircraft doesn't conform to either a Certificate of Airworthiness or a Special Certificate of Airworthiness. Flight permits are valid up to 12 months. (CARs Standard 507.04(1))
+    All aircraft require flight authority to fly. There are three types of flight authority in Canada, the two different types of Certificates of Airworthiness and the flight permit. A flight permit is required to fly an aircraft if the aircraft doesn't conform to either a Certificate of Airworthiness or a Special Certificate of Airworthiness. Flight permits are valid up to 12 months. (CARs Standard 507.04(1)) Flight permits can be issued for experimental aircraft or for "specific purpose" as described in CAR 507.04. The specific purposes include ferry flights, import/export, demo flights, and maintenance-related flights.
 
 4. **Name the different categories of standard airworthiness certificate.**
 
@@ -58,11 +58,23 @@
 
 6. **What permanently cancels the certificate?**
 
-    Airworthiness Staff Instructions 46
+    Destruction of the aircraft, sale abroad, or a request of the minister will cancel a certificate of airworthiness.
 
 7. **What cancels the certificate of airworthiness temporarily?**
 
-    ??
+    Use outside of the manufacturer's standards temporarily cancels a certificate of airworthiness. See Standard 625.88 Appendix G for the abnormal circumstances which can trigger this. Examples:
+    * Heavy or overweight landing
+    * Flight in severe turbulence
+    * Exceeding of airspeed or acceleration limits
+    * Burst tire incidents
+    * immersion in water
+    * prop strikes
+    * lightning strikes
+    * high winds or jet blasts
+    * spillage of corrosive substances
+    * misfuelling
+    * bird strikes
+    * ground collisions
 
 8. **Can you name 5 situations beyond the manufacturer's standards?**
 
@@ -88,30 +100,38 @@
 
 3. **What will definitively cancel a certificate of registration?**
 
-    CARs 202.57
+    * Aircraft destroyed
+    * Aircraft sold
+    * Stored in museum
+    * Not flown in 5 years
+    * Missing more than 60 days
+    * Owner changes status or dies
+
+    (CARs 202.57 and referenced CARs)
 
 4. **What cancels the aircraft registration?**
 
-    ??
+    The registration cannot be removed from the aircraft if the certificate of registration is in effect except under the conditions specified in (CARs 202.04(1)) such as permanent withdrawal from service, maintenance like painting, and export from Canada.
 
 5. **Can we change the aircraft registration?**
 
-    ??
+    If the owner applies to the minister (CARs 202.04(2))
 
-6. **Can we ask for a personnal [*sic*] registration and under which conditions?**
+6. **Can we ask for a custom (vanity) registration and under which conditions?**
 
-    ??
+    Yes we can request under CARs 202.02 provided the aircraft is registered within 12 months within Canada.
 
 7. **What is the time period allowed to inform Transport Canada in case of:**
     * **change of address?** no later than 7 days (CARs 202.51)
     * **change of ownership?** no later than 7 days (CARs 202.35)
-    * **change of social status?** ??
+    * **change of social status, for example change of group of owners?** no later than 7 days
 
 8. **What is the proper administrative procedure when selling an airplane?**
 
-    * register the airplane with Transport Canada
-    * provide a bill of sale
-    * activate an interim certificate of registration
+    * The previous owners signs the transfer of ownership and sends it to Transport Canada
+    * The interim certificate of registration is completed and signed
+    * The new owner registers the plane with Transport Canada (Form 26-0522 Notice of change of owner) and includes a bill of sale
+    * The new owner pays the registration fee
 
 9. **What is the validity period for a temporary certificate?**
 
@@ -127,12 +147,14 @@
 
 1. **If we replace the radio with a newer model, what should we do?**
 
-    Ensure the radio is restricted to aircraft frequencies. If the radio will be used outside of Canada we must apply for and receive an aircraft radio station license from Industry Canada.
+    Ensure the radio is restricted to aircraft frequencies. If the radio will be used outside of Canada we must apply for and receive an aircraft radio station license from Industry Canada. A weight and balance amendment needs to be performed by an AME.
 
 2. **What are the allowed frequencies to be used under this license?**
 
-    * 108.0 - 117.975 MHz (NAV)
-    * 117.975 - 137 MHz (COM)
+    * 108.1 - 117.975 MHz (NAV)
+    * 117.975 - 136 MHz (COM)
+
+    (RIC-21 Appendix E, Frequency Assignments)
 
 3. **The use of aeronautical radio frequencies depends on which ministry or department?**
 
@@ -195,6 +217,8 @@
 
     The altimeter scale error tolerance is detailed in Table 1 of Standard 571 Appendix B. The pilot can check the altimeter accuracy by verifying that the altitude shown matches the aerodrome elevation when the pressure setting matches the aerodrome station pressure.
 
+    On the ground, the error should not exceed ±50' when set to the station pressure (TC AIM AIR 1.5.1)
+
 8. **What is the validity period of the ELT and when should we change the batteries?**
 
     |                               | 121.5 MHz | 406 and 121.5 MHz |
@@ -205,6 +229,8 @@
     ELT batteries shall be maintained at the interval recommended by the manufacturer and in accordance with the applicable standards of airworthiness in Appendix G of Standard 571.
 
     CARs Standard 625 Appendix C (12)
+
+    This information is on the aircraft status board in the binder
 
 9. **When the journey log is completely filled what should we do and why?**
 
@@ -217,7 +243,7 @@
 
 11. **Who can make an entry in the journey log?**
 
-    The Pilot in Command (CARs 605.94)
+    The Pilot in Command (CARs 605.94) or a designated person
 
 12. **Under which conditions can we enter several flights on a single line?**
 
@@ -225,13 +251,13 @@
 
 13. **If you enter a defect (snag) what will happen?**
 
-    ?? unsure of procedure. Section 600 Schedule 1 details who enters the snag
+    Section 600 Schedule 1 details who enters the snag. Record the snag and verify whether it affects airworthiness or prevents safe flight. Do not fly if flight cannot be performed safely in given conditions. Have AME address snag.
 
 ### Weight & Balance
 
 1. **When should a new complete weight & balance be done?**
 
-    ??
+    In a situation where the weight or CG of the aircraft may have changed but an amendment cannot propertly detail the change, a complete weight & balance should be done. An example would be painting the airplane, or when the airplane is brand new.
 
 2. **How is an aircraft weighed?**
 
@@ -263,11 +289,11 @@
 
 9. **What is the aircraft empty weight, actual and original (as it exited the plant)?**
 
-    ?? CHECK ACTUAL W&B and ACTUAL POH 1-5
+    These are detailed in the weight and balance history which includes the original weight and balance and amendments.
 
 10. **Where can we find the standard passenger weight (summer/winter)?**
 
-    Advisory Circular 700-022 Appendix A
+    TC AIM RAC 3.4
 
 11. **What is an amendment?**
 
@@ -279,7 +305,7 @@
 
 13. **Who can make an amendment?**
 
-    The person who made the modification or major repair (Standard 571 Appendix C (2))
+    The AME who made the modification or major repair (Standard 571 Appendix C (2))
 
 14. **What are the dangers of an aft or forward centre of gravity?**
 
@@ -287,7 +313,7 @@
 
 15. **Is the aircraft more maneuverable with a forward or aft centre of gravity?**
 
-    Forward CG increases maneuverability due to lower angle of attack to maintain level flight.
+    Forward CG increases stability of the airplane because the center if lift is balanced further away by stronger downforce of the tail and CG. As the CG moves toward the center of lift the plane becomes "twitchy" and more maneuverable, but less stable.
 
 16. **Is the aircraft more efficient with a forward or aft centre of gravity?**
 
@@ -311,15 +337,32 @@
 
 1. **What is the minimum equipment list (MEL)?**
 
-    ??
+    The Cessna 172 equipment list is provided in the binder for C-GNLR and if the equipment in the list is not on board the weight and balance report isn't valid.
 
 2. **Where can we find the MEL for this airplane, and can you show it?**
 
-    ??
+    The equipiment list for C-GNLR is in the binder.
 
 3. **What is the difference between the MEL and the required minimums for DVFR, NVFR and VFR OTT?**
 
-    ?? MEL is specific to aircraft, required minimums are general to all aircraft?
+    The equipment list is required to match actual equipment for weight and balance to be correct. Other requirements are minimum equipment specified in the CARs
+
+    | Equipment | DVFR | VFR OTT | NVFR |
+    |-----------|------|---------|------|
+    | Airspeed | x | x | x |
+    | Tachometer| x | x | x |
+    | Oil pressure gauge | x | x | x |
+    | Manifold pressure gauge | cs prop of blown engine | cs prop of blown engine | cs prop of blown engine | 
+    | Altimeter | x | x | x |
+    | Temperature | liquid cooled engines | liquid cooled engines | liquid cooled engines |
+    | Oil temperature gauge | x | x | x |
+    | Fuel gauge | x | x | x |
+    | Landing gear indicator | retract aircraft | retract aircraft | retract aircraft |
+    | Anti-collision lights| x | x | x |
+    | Magnetic compass | x | x | x |
+    | ELT | x | x | x |
+    
+    CARs 605.14-16
 
 ### Flight Manual
 
@@ -329,7 +372,7 @@
 
 2. **Is a copy legal?**
 
-    No. (Which rules ??)
+    If it's identical and includes the serial (thus matches the original exactly), no rules prevent the use of a copy in flight
 
 3. **How can we verify the validity of the manual?**
 
@@ -347,7 +390,7 @@
 
 3. **How can we verify the validity of the procedures?**
 
-    ?? Call ATC?
+    Check the latest CFS
 
 4. **What should the pilot do during a flight interception?**
 
@@ -369,19 +412,19 @@
 
 1. **What is the validity period for a student pilot permit?**
 
-    5 years.
+    5 years
 
 2. **What is the validity period for a provisory license?**
 
-    ?? what is a provisory license?
+    90 days
 
 3. **What is the validity period for a recreational pilot's permit?**
 
-    Indefinite validity as long as currency requirements are met. (CARs 401.05)
+    Indefinite validity as long as currency requirements are met and medical is valid. (CARs 401.05)
 
 4. **What is the validity period of your pilot's license?**
 
-    Indefinite validity as long as currency requirements are met. (CARs 401.05)
+    Indefinite validity as long as currency requirements are met and medical is valid. (CARs 401.05)
     See TP 2228E-37 document on currency.
 
 5. **Which privileges are related to your license or permit?**
@@ -394,7 +437,7 @@
 
 7. **What invalidates your pilot's license?**
 
-    ??
+    Expiry of medical or suspension by the minister.
 
 8. **What should you do to keep your knowledge up to date?**
 
@@ -406,9 +449,11 @@
     * Complete the requirements for the issue or renewal of a licence, permit or rating
     * Pass the written exam for a licence, permit or rating
 
+    CARs 401.05
+
 9. **What is the validity period for the update of knowledge?**
 
-    Pilots are required to complete at least one of the items in Question 8 every 2 years.
+    Pilots are required to complete at least one of the items in Question 8 every 24 months.
 
 10. **What are the requirements allowing you to carry passengers?**
 
@@ -469,7 +514,7 @@
 
 3. **What is the validity period for the provisional certificate?**
 
-    ??
+    90 days
 
 4. **What are the frequencies some important frequencies?**
 
@@ -726,6 +771,7 @@
 
 43. **What is the method to adjust the mixture**
 
+    POH C-GNLR 4-16 25-50 RPM beyond peak RPM
     Any time you aren't starting the engine or taking off below 3000' DA. Specifically, Mike Busch, the leader of Savvy Aviation, has extensive engine experience and says that leaning for maximum RPM during ground ops and climb, and leaning as much as possible without roughness in cruise, is the ideal leaning regimen for fixed-pitch simple aircraft. To summarize:
     * Full-rich: only for start and takeoff below 3000' DA
     * Lean for max RPM: ground ops, takeoff and climb above 3000' DA (this involves pulling the mixture control and watching the tachometer. RPM climbs, set the mixture at max RPM)
@@ -878,11 +924,11 @@
 
 79. **What is the tolerance for the altimeter?**
 
-    ??
+    ±50' on the ground
 
 80. **During navigation between Montreal and Quebec, when will you change the altimeter setting?**
 
-    Altimeter setting would be changed once received from CYQB ATIS prior to entering CYQB airspace.
+    Altimeter setting would be changed once received from CYQB ATIS prior to entering CYQB airspace. Also whenever new setting is available enroute it should be updated
 
 81. **Why should we reset the directional gyroscope (DG)?**
 
@@ -960,11 +1006,11 @@
 
 97. **At which altitude can we turn after takeoff on the circuit side in order to leave the circuit?**
 
-    Circuit altitude. (AIM RAC 4.5.2)
+    Circuit altitude + 500' (AIM RAC 4.5.2)
 
 98. **At which altitude can we turn after takeoff on the inactive side in order to leave the circuit?**
 
-    Circuit altitude + 1000' (AIM RAC 4.5.2) This accounts for aircraft descending to the circuit on the inactive side from 500' above the circuit.
+    Circuit altitude + 500' (AIM RAC 4.5.2) This accounts for aircraft descending to the circuit on the inactive side from 500' above the circuit.
 
 99. **What are the VFR weather minima for controlled airspace?**
 
@@ -1004,6 +1050,7 @@
 
 106. **If you get lost, how do you proceed?**
 
+    * VOR / NDB
     * Use panel GPS
     * Use your phone GPS
     * As a last resort, try to call ATC or a nearby FSS/FIC
