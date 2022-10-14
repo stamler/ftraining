@@ -539,7 +539,7 @@
 
 9. **What should we do if a radio failure occurs outside the control zone?**
 
-    Do not enter the CZ. Squawk 7600. Land somewhere and inform ATC as soon as possible. (CARs 602.138)
+    Do not enter the CZ. Squawk 7600. Land somewhere and inform ATC as soon as possible. (CARs 602.138). Use mobile phone to call tower by referencing CFS if available.
 
 ## Performance & Characteristics
 

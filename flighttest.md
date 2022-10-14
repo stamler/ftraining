@@ -55,9 +55,7 @@ Objective: Demonstrate an approach that safely touches down in the first third o
 
 ### a. partial power loss (POH 3-16 GNLR) (see also rough engine operation)
 
-* CARBURETOR ICING
-
-  See item i below.
+* CARBURETOR ICING - See item i below.
 
 * SPARK PLUG FOULING
 
@@ -74,77 +72,82 @@ Objective: Demonstrate an approach that safely touches down in the first third o
 
 ### b. rough engine operation or overheat
 
-* LOW OIL PRESSURE
-
-1. *Oil temperature is rising*: engine failure may be imminent. Reduce power immediately and select forced landing field. Use minimum power to reach touchdown spot.
-2. *Oil temperature is normal*: this could be a gauge malfunction. Land at nearest airport
+See a. and c. In the event of normal oil pressure but high oil temperature, reduce power setting, lower nose to increase airspeed for cooling (without diving), and enrichen mixture for increased cooling.
 
 ### c. loss of oil pressure
 
-  1. Precautionary Landing
+1. *Oil temperature is rising*: engine failure may be imminent. Reduce power immediately and select forced landing field. Use minimum power to reach touchdown spot.
+2. *Oil temperature is normal*: this could be a gauge malfunction. Land at nearest airport
 
 ### d. fuel starvation
 
 ### e. electrical fire
 
-  1. Master OFF
-  2. Avionics Switch OFF
-  3. All switches except ignition OFF
-  4. Vents/Cabin Air/Heat CLOSED
-  5. Fire Extinguisher ACTIVATE. After discharge of extinguisher, vent the cabin
-  6. Master ON
-  7. Circuit Breakers CHECK for faulty, do not reset
-  8.  
+1. Master OFF
+2. Avionics Switch OFF
+3. All switches except ignition OFF
+4. Vents/Cabin Air/Heat CLOSED (to avoid drafts)
+5. Fire Extinguisher ACTIVATE. After discharge of extinguisher, vent the cabin
+
+IF fire appears out
+
+6. Master ON
+7. Circuit Breakers CHECK for faulty, do not reset
+8. Radio OFF
+9. Avionics Switch ON
+10. Radio and other switches ON ONE AT A TIME to check which circuit is the problem
 
 ### f. vacuum system failure
 
+DG, Attiude Indicator are no longer accurate. For turns, use the Turn Coordinator and time rate 1 turns at 3°/sec.
+
 ### g. pitot or static blockage
 
-  [Video Explanation](https://www.youtube.com/watch?v=6BMCyBD80Fk&t=85s)
+[Video Explanation](https://www.youtube.com/watch?v=6BMCyBD80Fk&t=85s)
 
-  1. Alternate Static Source Valve FULL ON
-  2. Pitot Heat ON
-  3. Airspeed — Consult appropriate calibration tables in Section 5 of POH
+1. Alternate Static Source Valve FULL ON
+2. Pitot Heat ON
+3. Airspeed — Consult appropriate calibration tables in Section 5 of POH
 
 ### h. cabin fire
 
-  1. Master OFF
-  2. Vents/Cabin Air/Heat CLOSED (to avoid drafts)
-  3. Fire Extinguisher ACTIVATE. After discharging an extinguisher within a closed cabin, ventilate the cabin.
-  4. Land ASAP
+1. Master OFF
+2. Vents/Cabin Air/Heat CLOSED (to avoid drafts)
+3. Fire Extinguisher ACTIVATE. After discharging an extinguisher within a closed cabin, ventilate the cabin.
+4. Land ASAP
 
 ### i. carb icing
 
-  [Video Explanation](https://www.youtube.com/watch?v=f4lwLffGEkA&t=113s)
+[Video Explanation](https://www.youtube.com/watch?v=f4lwLffGEkA&t=113s)
 
-  1. Carb Heat ON FULL (POH 3-16)
-  2. Power FULL
-  3. Leave until engine operation is smooth
-  4. If conditions require continued use in cruise, use the minimum necessary to prevent ice and lean for smoothest operation
+1. Carb Heat ON FULL (POH 3-16)
+2. Power FULL
+3. Leave until engine operation is smooth
+4. If conditions require continued use in cruise, use the minimum necessary to prevent ice and lean for smoothest operation
 
 ### j. electrical malfunctions
 
-  OVER-VOLTAGE LIGHT ILLUMINATES
+OVER-VOLTAGE LIGHT ILLUMINATES
 
-  1. Avionics Power OFF
-  2. Master OFF (both sides)
-  3. Master ON
-  4. Over-voltage Light CHECK OFF
-  5. Avionics Power ON
-  6. If over-voltage light illuminates again, terminate flight as soon as possible
+1. Avionics Power OFF
+2. Master OFF (both sides)
+3. Master ON
+4. Over-voltage Light CHECK OFF
+5. Avionics Power ON
+6. If over-voltage light illuminates again, terminate flight as soon as possible
 
-  AMMETER SHOWS DISCHARGE
+AMMETER SHOWS DISCHARGE
 
-  1. Alternator OFF (Master)
-  2. Nonessential Radio/Electrical Equipment OFF
-  3. Terminate flight as soon as possible
+1. Alternator OFF (Master)
+2. Nonessential Radio/Electrical Equipment OFF
+3. Terminate flight as soon as possible
 
 ### k. landing gear malfunctions
 
-  LANDING WITH A FLAT MAIN TIRE
+LANDING WITH A FLAT MAIN TIRE
 
-  1. Approach NORMAL
-  2. Touchdown GOOD TIRE FIRST, hold airplan off flat tire as long as possible.
+1. Approach NORMAL
+2. Touchdown GOOD TIRE FIRST, hold airplan off flat tire as long as possible.
 
 ### l. brake failure or seizure
 
@@ -152,31 +155,32 @@ Objective: Demonstrate an approach that safely touches down in the first third o
 
 ### n. door opening in flight
 
+(POH 7-15)
+No need to land. Trim to 75 KIAS, momentarily shove door outward then forcefully close and lock the door
+
 ### o. spin recovery
 
-  PARE
+PARE
 
-  1. Power IDLE
-  2. Ailerons NEUTRAL
-  3. Rudder (FULL OPPOSITE SPIN)
-  4. Elevator FORWARD to break the stall
-  5. Hold the inputs until the spin stops, then neutralize rudder and recover from dive.
+1. Power IDLE
+2. Ailerons NEUTRAL
+3. Rudder (FULL OPPOSITE SPIN)
+4. Elevator FORWARD to break the stall
+5. Hold the inputs until the spin stops, then neutralize rudder and recover from dive.
 
 ### p. emergency descent
 
-  [Cabin Fire emergency descent](https://www.youtube.com/watch?v=Xc8RjuKCn_U&t=119s)
+[Cabin Fire emergency descent](https://www.youtube.com/watch?v=Xc8RjuKCn_U&t=119s)
 
-  1. Power IDLE
-  2. 45 degree bank turn and let speed climb to V<sub>NO</sub> (128 KIAS on GNLR)
+1. Power IDLE
+2. 45 degree bank turn and let speed climb to V<sub>NO</sub> (128 KIAS on GNLR)
 
-  [WITH FLAPS](https://www.youtube.com/watch?v=Xc8RjuKCn_U&t=267s)
+[WITH FLAPS](https://www.youtube.com/watch?v=Xc8RjuKCn_U&t=267s)
 
-  1. Power IDLE
-  2. 45 degree bank turn and let speed stay at V<sub>FE</sub> (85 KIAS on GNLR)
-  3. When at V<sub>FE</sub> full flaps
+1. Power IDLE
+2. 45 degree bank turn and let speed stay at V<sub>FE</sub> (85 KIAS on GNLR)
+3. When at V<sub>FE</sub> full flaps
 
 ### q. any other emergency unique to the type of aeroplane flown
 
-  Magneto malfunction
-  Low Oil Pressure
-  Spark Plug Fouling
+LANDING WITHOUT ELEVATOR CONTROL
