@@ -1,5 +1,6 @@
 import math
 from itertools import chain
+import drawSvg as draw
 
 # The sliderule is a device for performing multiplication and division using
 # logarithms. In this case we're going to use the same tick marks as the E6B
@@ -34,3 +35,13 @@ number_labels = [str(int(x / 10)) if x % 10 == 0 else None for x in range(100, 1
 
 # Every tick on the A and B scales of an E6B slide rule.
 e6b_ab_ticks = zip(tick_positions, long_ticks, number_labels)
+
+small_tick = draw.Line(0, 0, 100, 100, stroke_width=1, stroke='black')
+
+for t in e6b_ab_ticks:
+  if (t[1]):
+    d.append(draw.Use(long_tick, t[0] * 500, 12))
+  else:
+    d.append(draw.Use(tick, t[0] * 500, 12))
+
+print
