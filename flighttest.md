@@ -183,4 +183,9 @@ PARE
 
 ### q. any other emergency unique to the type of aeroplane flown
 
-LANDING WITHOUT ELEVATOR CONTROL
+* LANDING WITHOUT ELEVATOR CONTROL
+
+1. Trim for horizontal flight at 60 KIAS with 20° Flaps by using Throttle and elevator trim.
+2. Note the RPM
+3. Use power up and down to climb or descend
+4 At flareout adjust trim full nose-up and close throttle at touchdown.
