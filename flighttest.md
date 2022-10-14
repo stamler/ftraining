@@ -51,28 +51,41 @@ Objective: Demonstrate an approach that safely touches down in the first third o
 
 ## 29 Emergency Procedures / Malfunctions
 
-a. partial power loss
+---
 
-  1. Carb Heat ON
-  2. Mixture FULL RICH
-  3. Verify Mags BOTH
-  4. Verify Oil pressure / temp
-  5. Precautionary Landing
+### a. partial power loss (POH 3-16 GNLR) (see also rough engine operation)
 
-b. rough engine operation or overheat
+* CARBURETOR ICING
 
-  1. Carb Heat ON
-  2. Mixture FULL RICH
-  3. Verify Mags BOTH
-  4. Verify Oil pressure / temp
-  5. Precautionary Landing
+  See item i below.
 
-c. loss of oil pressure
+* SPARK PLUG FOULING
+
+1. test each mag to confirm one is much worse, return to BOTH
+2. lean mixture and wait several minutes
+3. if this doesn't work try enrichening to smooth out
+4. if problem still exists land at the nearest airport on BOTH mags unless roughness necessitates only one
+
+* MAGNETO MALFUNCTION
+
+1. test each mag to confirm one is much worse
+2. modify power setting and enrichen mixture to determine whether continued operation on BOTH is possible
+3. If not, switch to good mag and land at nearest airport
+
+### b. rough engine operation or overheat
+
+* LOW OIL PRESSURE
+
+1. *Oil temperature is rising*: engine failure may be imminent. Reduce power immediately and select forced landing field. Use minimum power to reach touchdown spot.
+2. *Oil temperature is normal*: this could be a gauge malfunction. Land at nearest airport
+
+### c. loss of oil pressure
 
   1. Precautionary Landing
 
-d. fuel starvation
-e. electrical fire
+### d. fuel starvation
+
+### e. electrical fire
 
   1. Master OFF
   2. Avionics Switch OFF
@@ -83,8 +96,9 @@ e. electrical fire
   7. Circuit Breakers CHECK for faulty, do not reset
   8.  
 
-f. vacuum system failure
-g. pitot or static blockage
+### f. vacuum system failure
+
+### g. pitot or static blockage
 
   [Video Explanation](https://www.youtube.com/watch?v=6BMCyBD80Fk&t=85s)
 
@@ -92,14 +106,14 @@ g. pitot or static blockage
   2. Pitot Heat ON
   3. Airspeed — Consult appropriate calibration tables in Section 5 of POH
 
-h. cabin fire
+### h. cabin fire
 
   1. Master OFF
   2. Vents/Cabin Air/Heat CLOSED (to avoid drafts)
   3. Fire Extinguisher ACTIVATE. After discharging an extinguisher within a closed cabin, ventilate the cabin.
   4. Land ASAP
 
-i. carb icing
+### i. carb icing
 
   [Video Explanation](https://www.youtube.com/watch?v=f4lwLffGEkA&t=113s)
 
@@ -108,7 +122,7 @@ i. carb icing
   3. Leave until engine operation is smooth
   4. If conditions require continued use in cruise, use the minimum necessary to prevent ice and lean for smoothest operation
 
-j. electrical malfunctions
+### j. electrical malfunctions
 
   OVER-VOLTAGE LIGHT ILLUMINATES
 
@@ -125,17 +139,20 @@ j. electrical malfunctions
   2. Nonessential Radio/Electrical Equipment OFF
   3. Terminate flight as soon as possible
 
-k. landing gear malfunctions
+### k. landing gear malfunctions
 
   LANDING WITH A FLAT MAIN TIRE
 
   1. Approach NORMAL
   2. Touchdown GOOD TIRE FIRST, hold airplan off flat tire as long as possible.
 
-l. brake failure or seizure
-m. flap failure
-n. door opening in flight
-o. spin recovery
+### l. brake failure or seizure
+
+### m. flap failure
+
+### n. door opening in flight
+
+### o. spin recovery
 
   PARE
 
@@ -145,7 +162,7 @@ o. spin recovery
   4. Elevator FORWARD to break the stall
   5. Hold the inputs until the spin stops, then neutralize rudder and recover from dive.
 
-p. emergency descent
+### p. emergency descent
 
   [Cabin Fire emergency descent](https://www.youtube.com/watch?v=Xc8RjuKCn_U&t=119s)
 
@@ -158,9 +175,8 @@ p. emergency descent
   2. 45 degree bank turn and let speed stay at V<sub>FE</sub> (85 KIAS on GNLR)
   3. When at V<sub>FE</sub> full flaps
 
-q. any other emergency unique to the type of aeroplane flown
+### q. any other emergency unique to the type of aeroplane flown
 
   Magneto malfunction
   Low Oil Pressure
   Spark Plug Fouling
-
