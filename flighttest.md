@@ -19,15 +19,52 @@ Objective: Safely carry out a diversion to an alternate destination using mental
 
 ## 16.B 1 Short Field Takeoff
 
+1. Full power check on runway against brakes
+2. Verify Oil pressure / temperature
+3. When RPM is over 2260 (GNLR) release brakes
+4. Accelerate and climb at V<sub>x</sub>
+
 ## 16.B 2 Soft Field Takeoff
 
-## 18 Landing Briefing?
+1. Set 10 degrees of flaps
+2. Roll from holding point to takeoff in one smooth motion, protecting the nosewheel with significant back pressure on yoke
+3. Once airborne, push the nose down to remain within ground effect until V<sub>y</sub>
+4. Climb at V<sub>y</sub>
+
+## 18 Landing Briefing
+
+1. Review passenger safety
+2. Identify runway and wind
+3. Identify touchdown point
 
 ## 18.B 1 Short Field Approach and Landing
 
+*OVERSHOOT IS ACCEPTABLE IF NECESSARY FOR SAFETY*
+
+1. Stable approach at 60 kts full flaps (POH 4-9)
+2. After clearing obstacle, power to idle
+3. Main wheels touch first
+4. Apply max brakes without skidding
+5. Retract flaps
+
 ## 18.B 2 Soft Field Approach and Landing
 
+*OVERSHOOT IS ACCEPTABLE IF NECESSARY FOR SAFETY*
+
+1. Stable approach at 60 kts full flaps (POH 4-9)
+2. Main wheels touch first
+3. Protect the nose and let the aircraft descelerate
+4. Add power if necessary to keep the nose up, watch airspeed to ensure you don't takeoff
+5. Gentle brakes or even no brakes
+
 ## 18.C Overshoot
+
+1. Full power
+2. Carb Heat OFF
+3. Flaps to 20 degrees
+4. Climb at 55 kts (POH 4-9)
+5. After obstacles cleared, Flaps to 10 degrees
+6. At 60 kts, retract flaps
 
 ## 21 Precautionary Landing
 
