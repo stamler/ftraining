@@ -1,21 +1,28 @@
 # Flight Test
 
-## 23.D Diversion
+## 4. Taxiing
 
-Objective: Safely carry out a diversion to an alternate destination using mental in-flight planning, dead reckoning, map reading and pilotage.
+While taxiing, perform
 
-(verify)
+1. brake check
+2. instrument check
+3. ensure controls are appropriate for wind according to POH (4-12)
+4. follow checklists
 
-1. Reduce speed to 70 kts with 20 degrees flap.
-2. Verify fuel level (remaining time is the most important)
-3. Establish your existing location on the map
-4. Pick a destination within your available time
-5. Draw a line to your destination
-6. Establish heading and distance
-7. Establish ground speed
-8. Calculate ETE / ETA
-9. Proceed on diversino
-10. Make appropriate calls to update flight plan with FSS/FIC
+## 9. Steep Turns
+
+1. CALT
+2. Smooth and coordinated, ±100' ±10 kts ±10°
+
+## 11. Slow Flight
+
+**QUESTION: WILL WE USE FLAPS ON TEST?**
+
+1. CALT AND Maintain Lookout
+2. slow to intermittent stall horn
+3. coordinated level flight plus turn at 15° bank ±100' ± 10° heading ± 5° bank
+4. roll out to specified headings ±10°
+5. recovery to cruise flight on command (look this up)
 
 ## 16.B 1 Short Field Takeoff
 
@@ -85,6 +92,23 @@ Objective: Demonstrate an approach that safely touches down in the first third o
 11. Master Off
 12. Land in field
 13. Exit to the rear
+
+## 23.D Diversion
+
+Objective: Safely carry out a diversion to an alternate destination using mental in-flight planning, dead reckoning, map reading and pilotage.
+
+(verify)
+
+1. Reduce speed to 70 kts with 20 degrees flap.
+2. Verify fuel level (remaining time is the most important)
+3. Establish your existing location on the map
+4. Pick a destination within your available time
+5. Draw a line to your destination
+6. Establish heading and distance
+7. Establish ground speed
+8. Calculate ETE / ETA
+9. Proceed on diversino
+10. Make appropriate calls to update flight plan with FSS/FIC
 
 ## 29 Emergency Procedures / Malfunctions
 
@@ -189,6 +213,10 @@ LANDING WITH A FLAT MAIN TIRE
 ### l. brake failure or seizure
 
 ### m. flap failure
+
+If flaps are stuck up, fly normally to destination and perform a no-flap landing. If the destination airport is short or soft, divert to an aerodrome with a solid surface.
+
+If the flaps are stuck down, land at an aerodrome as soon as possible to troubleshoot the situation.
 
 ### n. door opening in flight
 
