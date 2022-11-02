@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Practice Areas</name>
+    <name>CYHU Practice Areas</name>
     <Style id="poly-01579B-3601-0-nodesc-normal">
       <LineStyle>
         <color>ff9b5701</color>
