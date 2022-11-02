@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Practice Areas</name>
+    <Style id="poly-01579B-3601-0-nodesc-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>10</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>009b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-01579B-3601-0-nodesc-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>10</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>009b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-01579B-3601-0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-3601-0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-3601-0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-01579B-3801-0-nodesc-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>10</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>009b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-01579B-3801-0-nodesc-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>10</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>009b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-01579B-3801-0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-3801-0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-3801-0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-01579B-3901-0-nodesc-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>10</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>009b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-01579B-3901-0-nodesc-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>10</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>009b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-01579B-3901-0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-3901-0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-3901-0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>North Practice Area
+</name>
+      <styleUrl>#poly-01579B-3801-0-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -73.4742225,45.9645021,0
+              -72.9804815,45.647965,0
+              -72.8877288,45.6615889,0
+              -72.8382998,45.8233749,0
+              -72.9268374,45.9130801,0
+              -73.4451689,46.0082463,0
+              -73.4742225,45.9645021,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>South Practice Area
+</name>
+      <styleUrl>#poly-01579B-3601-0-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -73.1223037,45.2443383,0
+              -73.5844547,45.0474975,0
+              -72.837506,45.055473,0
+              -72.751338,45.2013487,0
+              -73.1223037,45.2443383,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>East Practice Area
+</name>
+      <styleUrl>#poly-01579B-3901-0-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -73.1165188,45.4176298,0
+              -72.9356311,45.3565963,0
+              -72.9024231,45.5020224,0
+              -72.9816845,45.5630373,0
+              -73.1238608,45.5205812,0
+              -73.1165188,45.4176298,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
