@@ -87,7 +87,7 @@ Objective: Demonstrate an approach that safely touches down in the first third o
 ### Vent-Champs-Plan
 
 3. Assess wind speed and direction to determine safe landing direction
-4. Locate a touch-down point and establish where to be on final approach. Declare the field to the examiner.
+4. Pick field and plan approach, declare field to examiner
 
 ### Restart / Secure Engine
 
@@ -104,7 +104,7 @@ Objective: Demonstrate an approach that safely touches down in the first third o
 11. Crack doors
 12. On final full flaps once you're sure you'll make the spot
 13. Master Off
-14. Land in field
+14. Land in first 3rd of field 60 kts
 15. Exit to the rear
 
 ## 23.D Diversion
