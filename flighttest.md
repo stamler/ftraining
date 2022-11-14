@@ -79,19 +79,33 @@ While taxiing, perform
 
 Objective: Demonstrate an approach that safely touches down in the first third of a suitable landing area upon simulated engine failure. *Clear the engine every 500 feet*
 
+### Cause Check
+
 1. Trim for best glide (65 kts) and apply carb heat. (maintain +10/-5 kts tolerance)
-2. Confirm fuel: both, mixture: full rich, Throttle: open, mags: both
+2. Confirm fuel: both, mixture: full rich, Throttle: open, mags: both, Master ON, Primer in and locked
+
+### Vent Champ Plan
+
 3. Assess wind speed and direction to determine safe landing direction
 4. Locate a touch-down point and establish where to be on final approach. Declare the field to the examiner.
+
+### Restart / Secure Engine
+
 5. If you have enough time, try to start the engine.
-6. Turn on the ELT, Squawk 7700, MAYDAY 121.5 MHz call sign, position, engine failure
-7. Fuel: off, mixture: Idle cutoff, mags off, alternator off
-8. Passenger briefing: what's happening, wear seatbelts, exit to the rear, protect your head with something soft
-9. Crack doors
-10. On final full flaps once you're sure you'll make the spot
-11. Master Off
-12. Land in field
-13. Exit to the rear
+6. Fuel: off, mixture: Idle cutoff, mags off, alternator off
+
+### Communicate
+7. Turn on the ELT
+8. Squawk 7700
+9. MAYDAY 121.5 MHz call sign, position, engine failure
+10. Passenger briefing: what's happening, wear seatbelts, exit to the rear, protect your head with something soft
+
+### Final Approach
+11. Crack doors
+12. On final full flaps once you're sure you'll make the spot
+13. Master Off
+14. Land in field
+15. Exit to the rear
 
 ## 23.D Diversion
 
