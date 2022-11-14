@@ -98,7 +98,7 @@ Objective: Demonstrate an approach that safely touches down in the first third o
 7. Turn on the ELT
 8. Squawk 7700
 9. MAYDAY 121.5 MHz call sign, position, engine failure
-10. Passenger briefing: what's happening, wear seatbelts, exit to the rear, protect your head with something soft
+10. Passenger briefing: what's happening, wear seatbelts, exit to the rear, protect your head with something soft, first aid kit
 
 ### Final Approach
 11. Crack doors
