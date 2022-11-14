@@ -84,7 +84,7 @@ Objective: Demonstrate an approach that safely touches down in the first third o
 1. Trim for best glide (65 kts) and apply carb heat. (maintain +10/-5 kts tolerance)
 2. Confirm fuel: both, mixture: full rich, Throttle: open, mags: both, Master ON, Primer in and locked
 
-### Vent Champ Plan
+### Vent-Champs-Plan
 
 3. Assess wind speed and direction to determine safe landing direction
 4. Locate a touch-down point and establish where to be on final approach. Declare the field to the examiner.
