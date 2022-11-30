@@ -4,7 +4,7 @@ Objective: Safely carry out a diversion to an alternate destination using mental
 
 ### Take Time
 
-1. 70 kts with 10°/20° flaps
+1. 2000 RPM with 20° flaps (best endurance)
 2. Verify fuel & remaining time
 3. Turn toward new destination
 
