@@ -180,11 +180,11 @@
 
 4. **If the copy of the report has not been sent to Transport Canada can the aircraft be flown?**
 
-    ??
+    No
 
 5. **If the copy was sent, but the entries in the logbook were not made, can the aircraft be flown?**
 
-    ??
+    No
 
 ### Aircraft Logbook (Journey Log)
 
